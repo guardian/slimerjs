@@ -1,0 +1,15 @@
+{
+    "name": "slimerjs",
+    "description": "A scriptable browser for Web developers",
+    "version": "0.8.5",
+    "homepage": "http://slimerjs.org/",
+    "authors": [
+        "Laurent Jouanneau <https://github.com/laurentj>"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/guardian/slimerjs.git"
+    },
+    "keywords": [ "slimerjs", "browser", "testing", ],
+    "main": ""
+}
